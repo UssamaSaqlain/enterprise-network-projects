@@ -41,20 +41,20 @@ Designed and implemented a secure enterprise LAN using Cisco Packet Tracer for a
 ------------------------------------------------------------------------------------------------------------------------------------------
 *Security Implemented*
 
-1.SSH only (Telnet disabled)
-2.Local administrator authentication
-3.Port Security
-4.Sticky MAC
-5.Disabled unused ports
-6.ACL restricting HR access to Finance
+1. SSH only (Telnet disabled)
+2. Local administrator authentication
+3. Port Security
+4. Sticky MAC
+5. Disabled unused ports
+6. ACL restricting HR access to Finance
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 *Skills Demonstrated*
 
-Enterprise LAN Design
-Network Segmentation
-Router Configuration
-Switch Configuration
-Enterprise Security
-Network Troubleshooting
+1. Enterprise LAN Design
+2. Network Segmentation
+3. Router Configuration
+4. Switch Configuration
+5.Enterprise Security
+6. Network Troubleshooting
 
