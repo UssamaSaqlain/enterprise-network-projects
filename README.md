@@ -58,3 +58,6 @@ Designed and implemented a secure enterprise LAN using Cisco Packet Tracer for a
 5.Enterprise Security
 6. Network Troubleshooting
 
+------------------------------------------------------------------------------------------------------------------------------------------
+*Network Diagram*
+<img width="1365" height="667" alt="image" src="https://github.com/user-attachments/assets/71def671-602d-4db7-bc0f-1c59ef40b217" />
